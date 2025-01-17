@@ -72,6 +72,14 @@ The demo video showcases the following functionalities:
 - **Bundled and Modular Codebase 📦**:
   - Utilizes Webpack for bundling dependencies and managing modules.
   - Supports modern JavaScript through Babel.
+ 
+<div align="center">  
+<img src="dist/img/full_view_of_the_UI" alt="Watch the video" width="700"/>  
+ <p>
+  <i>Figure-1:</i> Full view of the UI with all features
+ </p>
+ 
+</div>  
 
 ---
 
