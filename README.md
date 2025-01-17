@@ -51,7 +51,7 @@ The demo video showcases the following functionalities:
 
 <div align="center">  
   <a href="https://youtu.be/t072AGryPq8">  
-    <img src="https://img.youtube.com/vi/t072AGryPq8/0.jpg" alt="Watch the video" />  
+    <img src="dist/img/UI" alt="Watch the video" width="700"/>  
   </a>  
  <p>
   Click the image or [here](https://youtu.be/t072AGryPq8) to watch the video demonstration. 
